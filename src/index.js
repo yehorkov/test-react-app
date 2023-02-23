@@ -29,9 +29,5 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <StrictMode>
 	<App/>
-	{/* <BigButton as='a'>Отправить отчет</BigButton> */}
-	{/* <BootstrapTest/> */}
-  </StrictMode>
 );
